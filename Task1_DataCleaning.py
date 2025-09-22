@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 # -------------------------
 # Task 1: Data Cleaning & Preprocessing
 # -------------------------
@@ -80,7 +74,7 @@ print("\n🔹 Final Cleaned Dataset Shape:", df.shape)
 print(df.head())
 
 
-# In[ ]:
+
 
 
 
